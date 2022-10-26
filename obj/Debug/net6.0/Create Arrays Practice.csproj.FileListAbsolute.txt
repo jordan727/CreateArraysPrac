@@ -1,0 +1,15 @@
+F:\CS30\Quiz Prep\Create Arrays Practice\bin\Debug\net6.0\Create Arrays Practice.exe
+F:\CS30\Quiz Prep\Create Arrays Practice\bin\Debug\net6.0\Create Arrays Practice.deps.json
+F:\CS30\Quiz Prep\Create Arrays Practice\bin\Debug\net6.0\Create Arrays Practice.runtimeconfig.json
+F:\CS30\Quiz Prep\Create Arrays Practice\bin\Debug\net6.0\Create Arrays Practice.dll
+F:\CS30\Quiz Prep\Create Arrays Practice\bin\Debug\net6.0\Create Arrays Practice.pdb
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.csproj.AssemblyReference.cache
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.AssemblyInfoInputs.cache
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.AssemblyInfo.cs
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.csproj.CoreCompileInputs.cache
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.dll
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\refint\Create Arrays Practice.dll
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.pdb
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\Create Arrays Practice.genruntimeconfig.cache
+F:\CS30\Quiz Prep\Create Arrays Practice\obj\Debug\net6.0\ref\Create Arrays Practice.dll
